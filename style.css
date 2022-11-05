@@ -13,13 +13,13 @@ section{
     padding: 100px 20vw;
 }
 
-.blue{
-    background: #3c3ceb;
-}
+
 .pink{
     background: #ff0066;
 }
-
+.red{
+    background: #dd2828;
+}
 
 
 .wave-1 {
@@ -67,10 +67,10 @@ section{
     fill: #000000;
 }
 
-
-.red{
-    background: #dd2828;
+.blue{
+    background: #3c3ceb;
 }
+
 
 .wave-3 {
     position: absolute;
